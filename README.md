@@ -1,2 +1,1 @@
-# My-Talks
- Some of the talks that I have given over the years.
+some of my Notes, papers and talks
