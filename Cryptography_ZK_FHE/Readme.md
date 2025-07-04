@@ -14,10 +14,22 @@ You can find all my papers in
 * [Zk friendly hashes](/Cryptography_ZK_FHE/papers/sok_zk_friendly_hashes.pdf)
 * [Pipe MSM](/Cryptography_ZK_FHE/papers/2022-999.pdf)
 
+## Implementations/experiments
+
+* [ICICLE Research POCs](https://github.com/ingonyama-zk/research_POCs)
+* [Super-sumcheck](https://github.com/ingonyama-zk/super-sumcheck)
+* [AIR - ICICLE](https://github.com/ingonyama-zk/air-icicle)
+* [reference - Poseidon/Poseidon2 parameters and diagrams](https://github.com/ingonyama-zk/Poseidon_parameters)
+
+### puzzles/hiring challenges
+
+* [CTF - Moriarty's Challenge (FHE weak key)](https://github.com/ingonyama-zk/moriartys_challenge)
+* [CTF - Operation ZK rescue (Steganography)](https://github.com/ingonyama-zk/operation_zk_rescue)
+* [hiring challenge](https://github.com/ingonyama-zk/Challenges/blob/main/Minimal_Viable_Prover.md)
+
 ## Blogs
 
 * [AIR ICICLE](https://hackmd.io/@Ingonyama/air-icicle)
-  * [code](https://github.com/ingonyama-zk/air-icicle)
 * [Bridging the multichain universe with zero knowledge proofs](https://medium.com/@ingonyama/bridging-the-multichain-universe-with-zero-knowledge-proofs-6157464fbc86)
 
 ## Notes
@@ -49,3 +61,7 @@ You can find all my papers in
 * [ZKVM 101 - Journal club](/Cryptography_ZK_FHE//talks/journal_club_zkvm101.pdf)
 * [filecoin stuff](/Cryptography_ZK_FHE/talks/2023_01_19_filecoin.pdf)
 * [zk-friendly hashes](/Cryptography_ZK_FHE/talks/2022_10_20_zk_friendly_hashes.pdf)
+
+## Community
+
+* [Ingopedia](https://github.com/ingonyama-zk/ingopedia)
