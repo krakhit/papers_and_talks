@@ -14,6 +14,21 @@ You can find all my papers in
 * [Zk friendly hashes](/Cryptography_ZK_FHE/papers/sok_zk_friendly_hashes.pdf)
 * [Pipe MSM](/Cryptography_ZK_FHE/papers/2022-999.pdf)
 
+## Talks
+
+* [zk summit 2024 - halo2 stuff](/Cryptography_ZK_FHE/talks/zk_summit_Apr_2024%20talk.pdf)
+  * [video](https://youtu.be/SAu021NYJp8?si=LsldNO0G8P8fk9Zp)
+* [ZKVM 101 - Journal club](/Cryptography_ZK_FHE//talks/journal_club_zkvm101.pdf)
+* [filecoin stuff](/Cryptography_ZK_FHE/talks/2023_01_19_filecoin.pdf)
+* [zk-friendly hashes](/Cryptography_ZK_FHE/talks/2022_10_20_zk_friendly_hashes.pdf)
+
+## Courses given
+
+* [Foundations of high speed cryptography - Lesson 3: Cryptographic hashes and merkle trees](https://www.ingonyama.com/foundations-of-high-speed-cryptography)
+  * [Slides - Lesson3,Part 1: Collision Resistant hashes](/Cryptography_ZK_FHE/Course_foundations_of_high_speed_cryptography/Lesson3_Part1_Collision_resistant_hashes.pdf)
+  * [Slides - Lesson3,Part 2: Merkle Tree](/Cryptography_ZK_FHE/Course_foundations_of_high_speed_cryptography/Lesson3_Part2_Merkle_tree.pdf)
+  * [Slides - Lesson3,Part 3: Hash Functions as random oracles](/Cryptography_ZK_FHE/Course_foundations_of_high_speed_cryptography/Lesson3_part3_Fiat_Shamir.pdf)
+  
 ## Implementations/experiments
 
 * [ICICLE Research POCs](https://github.com/ingonyama-zk/research_POCs)
@@ -53,14 +68,6 @@ You can find all my papers in
   * [Poseidon 2 hash diagram](/Cryptography_ZK_FHE/drawings/Poseidon-Poseidon2.png)
 * **Lattice** 
   * [RingSIS](/Cryptography_ZK_FHE/notes/Hardware_acceleration_of_RingSIS_notes.pdf)
-
-## Talks
-
-* [zk summit 2024 - halo2 stuff](/Cryptography_ZK_FHE/talks/zk_summit_Apr_2024%20talk.pdf)
-  * [video](https://youtu.be/SAu021NYJp8?si=LsldNO0G8P8fk9Zp)
-* [ZKVM 101 - Journal club](/Cryptography_ZK_FHE//talks/journal_club_zkvm101.pdf)
-* [filecoin stuff](/Cryptography_ZK_FHE/talks/2023_01_19_filecoin.pdf)
-* [zk-friendly hashes](/Cryptography_ZK_FHE/talks/2022_10_20_zk_friendly_hashes.pdf)
 
 ## Community
 
