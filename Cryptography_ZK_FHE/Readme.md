@@ -1,9 +1,30 @@
 # Papers
 
-You can find all my papers in 
+You can find all my papers in
+
 * [Orcid](https://orcid.org/0000-0002-1020-1397)
 
-## Papers with Ingonyama Research
+## AI
+
+### Journal club talks
+
+* [VAE](/AI/talks/Vae.pdf)
+* [FFN MOE scaling (Moefication)](/AI/talks/FFN_MOE1.pdf)
+
+### Implementations
+
+* [LTX-radial attention based on sage attention 1 block sparse kernel](https://github.com/krakhit/LTX-Video/tree/radial_sparse_sage)
+* [diffusion/vae playground (toy)](https://github.com/krakhit/Diffusion)
+
+## Physics
+
+* [Publications](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=fin%20a%20karthik%20inbasekar)
+* [Presentations](/String%20theory/talks/)
+* [Mathematica implementations for publications](https://github.com/krakhit/Chern-Simons-Matter-Theories-)
+
+## Cryptography
+
+### Papers with Ingonyama Research
 
 [papers](https://github.com/ingonyama-zk/papers)
 
@@ -14,7 +35,7 @@ You can find all my papers in
 * [Zk friendly hashes](/Cryptography_ZK_FHE/papers/sok_zk_friendly_hashes.pdf)
 * [Pipe MSM](/Cryptography_ZK_FHE/papers/2022-999.pdf)
 
-## Talks
+### Talks
 
 * [zk summit 2024 - halo2 stuff](/Cryptography_ZK_FHE/talks/zk_summit_Apr_2024%20talk.pdf)
   * [video](https://youtu.be/SAu021NYJp8?si=LsldNO0G8P8fk9Zp)
@@ -22,19 +43,20 @@ You can find all my papers in
 * [filecoin stuff](/Cryptography_ZK_FHE/talks/2023_01_19_filecoin.pdf)
 * [zk-friendly hashes](/Cryptography_ZK_FHE/talks/2022_10_20_zk_friendly_hashes.pdf)
 
-## Courses given
+### Courses given
 
 * [Foundations of high speed cryptography - Lesson 3: Cryptographic hashes and merkle trees](https://www.ingonyama.com/foundations-of-high-speed-cryptography)
   * [Slides - Lesson3,Part 1: Collision Resistant hashes](/Cryptography_ZK_FHE/Course_foundations_of_high_speed_cryptography/Lesson3_Part1_Collision_resistant_hashes.pdf)
   * [Slides - Lesson3,Part 2: Merkle Tree](/Cryptography_ZK_FHE/Course_foundations_of_high_speed_cryptography/Lesson3_Part2_Merkle_tree.pdf)
   * [Slides - Lesson3,Part 3: Hash Functions as random oracles](/Cryptography_ZK_FHE/Course_foundations_of_high_speed_cryptography/Lesson3_part3_Fiat_Shamir.pdf)
   
-## Implementations/experiments
+### Implementations/experiments 
 
 * [ICICLE Research POCs](https://github.com/ingonyama-zk/research_POCs)
 * [Super-sumcheck](https://github.com/ingonyama-zk/super-sumcheck)
 * [AIR - ICICLE](https://github.com/ingonyama-zk/air-icicle)
 * [reference - Poseidon/Poseidon2 parameters and diagrams](https://github.com/ingonyama-zk/Poseidon_parameters)
+* [Feldman Secret sharing](https://github.com/krakhit/feldman_secret_sharing)
 
 ### puzzles/hiring challenges
 
@@ -42,12 +64,12 @@ You can find all my papers in
 * [CTF - Operation ZK rescue (Steganography)](https://github.com/ingonyama-zk/operation_zk_rescue)
 * [hiring challenge](https://github.com/ingonyama-zk/Challenges/blob/main/Minimal_Viable_Prover.md)
 
-## Blogs
+### Blogs 
 
 * [AIR ICICLE](https://hackmd.io/@Ingonyama/air-icicle)
 * [Bridging the multichain universe with zero knowledge proofs](https://medium.com/@ingonyama/bridging-the-multichain-universe-with-zero-knowledge-proofs-6157464fbc86)
 
-## Notes
+### Notes
 
 * [Fiat Shamir Spongefish](/Cryptography_ZK_FHE/notes/fiat_shamir_api_designdoc.pdf)
   * [Prover flow](/Cryptography_ZK_FHE/drawings/fiat_shamir-Prover%20Flow.png), [Verifier flow](/Cryptography_ZK_FHE/drawings/fiat_shamir-verifier%20flow.png), [Sponge operation](/Cryptography_ZK_FHE/drawings/fiat_shamir-sponge%20operation.png)
@@ -69,6 +91,6 @@ You can find all my papers in
 * **Lattice** 
   * [RingSIS](/Cryptography_ZK_FHE/notes/Hardware_acceleration_of_RingSIS_notes.pdf)
 
-## Community
+### Community
 
 * [Ingopedia](https://github.com/ingonyama-zk/ingopedia)
